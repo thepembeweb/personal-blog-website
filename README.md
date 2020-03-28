@@ -6,7 +6,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-![](the_eighties_blog_screenshot.jpg)
+![](the_eighties_blog_screenshot.png)
 
 ## Installation
 
