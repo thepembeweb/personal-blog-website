@@ -10,7 +10,7 @@
 
 ![](the_eighties_blog_screenshot.jpg)
 
-Visit the website site [here](https://thepembeweb.github.io/personal-blog-website/index.html)
+Visit the website [here](https://thepembeweb.github.io/personal-blog-website/index.html)
 
 ## Installation
 
