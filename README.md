@@ -6,9 +6,11 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## The Eighties Blog
+## The Eighties Blog homepage
 
 ![](the_eighties_blog_screenshot.jpg)
+
+Visit the website site [here](https://thepembeweb.github.io/personal-blog-website/index.html)
 
 ## Installation
 
