@@ -4,9 +4,9 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-
 ![](the_eighties_blog_screenshot.jpg)
+
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## Installation
 
