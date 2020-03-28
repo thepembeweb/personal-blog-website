@@ -6,7 +6,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## The Eighties Blog homepage
+## The Eighties Blog Homepage
 
 ![](the_eighties_blog_screenshot.jpg)
 
