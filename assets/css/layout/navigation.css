@@ -1,0 +1,25 @@
+/* Navigation */
+
+nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  grid-area: nav;
+  background-color: hsla(48, 47%, 84%, 1);
+  border-top: 1px solid hsla(0, 0%, 85%, 1);
+  padding: 1.3125rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  font-size: 0.9em;
+  letter-spacing: -0.02em;
+}
+
+nav a:visited {
+  color: hsla(0, 0%, 13%, 1);
+}
+
+@media only screen and (max-width: 700px) {
+  nav {
+    grid-template-columns: 1fr;
+    grid-gap: 0.75rem;
+  }
+}

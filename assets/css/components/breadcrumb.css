@@ -1,0 +1,21 @@
+/* Navigation Breadcrumbs */
+
+ul.breadcrumb {
+  padding: 2rem 4rem;
+  list-style: none;
+  align-items: left;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: inherit;
+  align-items: left;
+}
+ul.breadcrumb li + li:before {
+  padding: 2rem;
+  color: hsla(0, 0%, 13%, 1);
+  content: '/\00a0';
+}
+ul.breadcrumb li a {
+  color: hsla(0, 0%, 13%, 1);
+  text-decoration: none;
+}

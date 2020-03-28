@@ -1,0 +1,50 @@
+/* Site-Wide Styles */
+
+a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: hsla(0, 0%, 13%, 1);
+}
+
+nav a {
+  font-size: 1.2rem;
+}
+
+nav a:hover {
+  color: hsla(88, 100%, 25%, 1);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: bold;
+  color: hsla(0, 0%, 29%, 1);
+}
+
+input,
+textarea,
+select {
+  border: solid 1px hsla(0, 0%, 59%, 1);
+  border-radius: 3px;
+  padding: 1rem;
+}
+
+.overlay:before {
+  content: ' ';
+  z-index: 1;
+  display: block;
+  position: absolute;
+  height: 450px;
+  top: 40;
+  left: 5%;
+  width: 90%;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 1.5rem;
+}
+.overlay * {
+  position: relative;
+}

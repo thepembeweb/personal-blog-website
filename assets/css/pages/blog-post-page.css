@@ -1,0 +1,8 @@
+/* Blog Post Page */
+
+@import url(./../components/blog-post.css);
+
+#main h1 {
+  font-size: 1.625rem;
+  color: hsla(0, 100%, 17%, 1);
+}

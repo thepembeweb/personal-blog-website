@@ -1,0 +1,12 @@
+/**
+ * Basic typography style for copy text
+ */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Covered By Your Grace', cursive;
+  color: hsla(0, 0%, 13%, 1);
+}

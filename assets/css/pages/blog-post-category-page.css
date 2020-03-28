@@ -1,0 +1,8 @@
+/* Main Section */
+
+@import url(./../components/product-list.css);
+
+#main {
+  justify-items: stretch;
+  padding: 1.875rem 5rem;
+}
