@@ -1,6 +1,6 @@
 ﻿# Personal Blog Website
 
-> This project showcases how to utilize HTML and CSS to build out a personal blog website, including custom images, layout, and styling.
+> This project showcases how to utilize modern HTML and CSS to build out a personal blog website, including custom images, layout, and styling.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)
 
